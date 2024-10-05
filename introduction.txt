@@ -1,0 +1,7 @@
+Hi Team, This is Deepak Dhakad, B.tech 2024 graduate IIT Roorkee. I have internship experiece in Node.js /Typescipt.
+I have excellent coding skills, Expert on Codeforces, 2000+ rated on LeetCode. 
+Primarily i code in C++, but i can code DSA in python, typescript as well (have to take help online for some syntax but analogy with C++ helps).
+Completing Django part(first three question by learning a bit rightnow), OOP concepts i am familiar already.
+
+Please evaluate accordingly.
+Thanks.
